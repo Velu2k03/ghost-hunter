@@ -7,7 +7,7 @@ Every dead-code finding is a ghost with a species, lore, a haunting
 
 ## Demo (53 seconds)
 
-https://github.com/Velu2k03/ghost-hunter/raw/main/demo-video.mp4
+[![Watch the demo](demo-thumbnail.png)](https://raw.githubusercontent.com/Velu2k03/ghost-hunter/main/demo-video.mp4)
 
 ## The 3 features
 
