@@ -5,6 +5,10 @@
 Every dead-code finding is a ghost with a species, lore, a haunting
 (`file:line`), and an exorcism. Built for Hackyard Yard #5: Haunted.
 
+## Demo (53 seconds)
+
+https://github.com/Velu2k03/ghost-hunter/raw/main/demo-video.mp4
+
 ## The 3 features
 
 1. **Haunt** — `ghost_hunter.py` scans any Python repo and reports 4 ghost species:
